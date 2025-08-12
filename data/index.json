@@ -4,25 +4,25 @@
             "id"    : 1,
             "title" : "Basic Crew Neck Tee",
             "price" : 44,
-            "image" : "https://akmniazulalam.github.io/orebiApi/public/images/productOne.png"
+            "image" : "/images/productOne.png"
         },
         {
             "id"    : 2,
             "title" : "Basic Crew Neck Tee",
             "price" : 44,
-            "image" : "https://akmniazulalam.github.io/orebiApi/public/images/productTwo.png"
+            "image" : "/images/productTwo.png"
         },
         {
             "id"    : 3,
             "title" : "Basic Crew Neck Tee",
             "price" : 44,
-            "image" : "https://akmniazulalam.github.io/orebiApi/public/images/cup.png"
+            "image" : "/images/cup.png"
         },
         {
             "id"    : 4,
             "title" : "Basic Crew Neck Tee",
             "price" : 44,
-            "image" : "https://akmniazulalam.github.io/orebiApi/public/images/productThree.png"
+            "image" : "/images/productThree.png"
         }
     ]
 }
